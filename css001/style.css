@@ -531,10 +531,12 @@ table td{
   position: fixed;
   top: 0;
   right: 0;
+  padding-left: 0;
   background-color: #607D8B;
   opacity: 0.8;
   text-align: left;
   z-index: 100;
+  list-style: none;
 }
 .cp_menu-list > li {
   border-bottom: 1px solid #FFF;
@@ -753,6 +755,7 @@ list-style-type: none;
 .p-performance__center__imgList {
   /* display: flex;
   justify-content: space-around; */
+  list-style: none;
 }
 /* .p-performance__center__imgList > li:not(:nth-child(2)) {
   display: none;
