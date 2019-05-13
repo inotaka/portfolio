@@ -36,10 +36,12 @@
   position: fixed;
   top: 0;
   right: 0;
+  padding-left: 0;
   background-color: #607D8B;
   opacity: 0.8;
   text-align: left;
   z-index: 100;
+  list-style: none;
 }
 .cp_menu-list > li {
   border-bottom: 1px solid #FFF;
