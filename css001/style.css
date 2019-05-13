@@ -688,6 +688,7 @@ list-style-type: none;
 }
 .p-skill__container--list {
   margin-top: 50px;
+  padding-left: 0;
 }
 .p-skill__container--list > li {
   text-align: center;
